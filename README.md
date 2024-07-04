@@ -22,6 +22,8 @@ Amazon Web Services
 PostgreSQL
 Git
 GitHub
+![image](https://github.com/TeodoraKamenova/TeodoraKamenova/assets/97409351/9d761949-dc2e-431f-9047-b328907a0de8)
+
 ***
 # Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeodoraKamenova&theme=dracula&show_icons=true&hide_border=true&count_private=true) 
