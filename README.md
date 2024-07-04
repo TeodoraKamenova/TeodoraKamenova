@@ -9,21 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/teddykamenova/)
 ***
 # Languages and tools I know:
-Python
-JavaScript
-Node.js
-HTML5
-CSS3
-Django
-PyCharm
-Visual Studio Code
-Heroku
-Amazon Web Services
-PostgreSQL
-Git
-GitHub
-![image](https://github.com/TeodoraKamenova/TeodoraKamenova/assets/97409351/9d761949-dc2e-431f-9047-b328907a0de8)
-
+![image](https://github.com/TeodoraKamenova/TeodoraKamenova/assets/97409351/fe416734-fc55-499e-b692-f554c292e36c)
+![image](https://github.com/TeodoraKamenova/TeodoraKamenova/assets/97409351/159cc274-3c96-4cdb-b0db-291ef9c28a63) 
+![image](https://github.com/TeodoraKamenova/TeodoraKamenova/assets/97409351/8c4432d6-8d5b-4815-af3f-e7508e230400)
 ***
 # Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeodoraKamenova&theme=dracula&show_icons=true&hide_border=true&count_private=true) 
