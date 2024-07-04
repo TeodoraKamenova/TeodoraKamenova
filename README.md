@@ -1,7 +1,7 @@
 ## Hi, I am Teodora Kamenova! 👋
 
-🌱 I have masters degree in Applied Econometrics and bachlors degree from the University of Warwick, UK
-💻 Currently working as Data Modeler at Experian
+🌱 I have masters degree in Applied Econometrics and bachlors degree from the University of Warwick, UK <br />
+💻 Currently working as Data Modeler at Experian <br />
 ⚡ Fun fact: 
 
 # Connect with me
