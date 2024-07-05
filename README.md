@@ -1,7 +1,7 @@
 # Hi, I am Teodora Kamenova! 👋
 ***
-🌱 I am majoring **Python Web Development** in **Software University** <br />
-💻 Currently working as **Data Modeler** at **Experian** <br />
+🌱 I am majoring in **Python Web Development** in **Software University** <br />
+💻 Currently working as a **Data Modeler** at **Experian** <br />
 👨‍🏫 I have masters degree in **Applied Econometrics** and bachlors degree from the **University of Warwick, UK** <br />
 ⚡ Fun fact: 
 ***
